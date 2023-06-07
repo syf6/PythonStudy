@@ -1,0 +1,3 @@
+Decorators are an important part of Python. Simply put: they are functions that modify the functionality of other functions. They help keep our code shorter and more Pythonic. Most beginners don't know where to use them, so I'm going to share where decorators can make your code more concise. First, let's discuss how to write your own decorators.
+
+This can be one of the most difficult concepts to grasp. We'll discuss one step at a time so you can fully understand it.
